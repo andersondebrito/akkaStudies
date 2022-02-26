@@ -1,6 +1,6 @@
-# livro-akka-streams
+# book-akka-streams
 
-Código-fonte do Livro de Akka & Akka Streams da editora Casa do Código. Adquira o seu exemplar em:
+Source code for the Book of Akka & Akka Streams from Casa do Código publishing house. Get your copy at:
 
 https://www.casadocodigo.com.br/products/livro-akka
 
